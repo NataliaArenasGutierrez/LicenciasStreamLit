@@ -4,6 +4,3 @@ matplotlib
 numpy
 seaborn
 plotly
-os
-random
-openpyxl
